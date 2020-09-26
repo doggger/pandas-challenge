@@ -1,0 +1,7 @@
+Heroes of Pymoli Analyis
+
+1. The playership is heavily male, making up ~84% of the players in the database. However, although female players are less numerous, they purchase slightly more in total per player.
+
+2. The playership is dominated by the 20-24 year age range, making up ~45% of the playership. However, the 35-39 age range spends the most per person ($4.76)
+
+3. Final Critic was the most popular item, in both total purchase value and purchase count.  
